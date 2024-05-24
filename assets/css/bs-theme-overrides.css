@@ -1,0 +1,12 @@
+:root, [data-bs-theme=light] {
+  --bs-border-style: none;
+  --bs-border-color: #16406a;
+  --bs-focus-ring-opacity: 0;
+}
+
+[data-bs-theme=dark] {
+  --bs-border-style: none;
+  --bs-border-color: #16406a;
+  --bs-focus-ring-opacity: 0;
+}
+
